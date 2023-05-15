@@ -1,0 +1,8 @@
+This challenge required us to train and evaluate a model based on credit risk. We used a dataset of historical lending activity from a peer-to-peer lending services company to construct a model that can identify the creditworthiness of borrowers.
+
+- The accuracy, precision, and recall scores of the model were excellent. The model evaluated both high-risk loans and healthy loans, and gave scores for both.
+- The accuracy of the model overall was 99% for both high risk and healthy loans.
+- Precision refers to the percentage of correct predictions made by the model relative to all positive predictions. The precision of this model was 100% concerning healthy loans, and 86% concerning high risk loans.
+- Recall refers to the percentage of correct positive predictions relative to the total number of actual positives. The recall of this model was 99% for both high risk and healthy loans.
+
+This model shows itself to be both precise and accurate in identifying the creditworthiness of borrowers. The accuracy, precision, and recall values all scored higher than 80%, which indicates that this model is fit for regular use by the lending services company.
